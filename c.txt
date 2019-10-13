@@ -1,2 +1,2 @@
 hello c
-this is branch2
+this is branch2 master
